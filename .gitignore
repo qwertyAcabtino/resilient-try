@@ -1,0 +1,17 @@
+build
+target
+logs
+build
+out
+!.gitkeep
+**/.DS_Store
+.idea
+.gradle
+gradlew.bat
+*.iml
+*.sublime-project
+*.sublime-workspace
+bin
+.classpath
+.project
+.settings
